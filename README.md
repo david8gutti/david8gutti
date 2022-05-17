@@ -1,5 +1,9 @@
-### Hi there 👋
+### ¿HOLA! 👋
+Soy David Gutiérrez Mariblanca.
+Actualmente me encuentro estudiando el grado de Ingeniería Informática en la UCLM.
 
+## Skills:
+- 💻 JAVA / JS / PYTHON / HTML / CSS / SQL
 <!--
 **david8gutti/david8gutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
